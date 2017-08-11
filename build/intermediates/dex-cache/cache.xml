@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arnab\.android\build-cache\03bde153ca40af8cba45673f29d457439b53db20\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Arnab\AndroidStudioProjects\TimeTracker\app\build\intermediates\pre-dexed\release\classes_4644618d7975c7545f18c46980acb0a3a04ff9c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arnab\.android\build-cache\2b6a23a7422ab4acf7c5273ddda378824b7edd05\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Arnab\AndroidStudioProjects\TimeTracker\app\build\intermediates\pre-dexed\release\classes_335cbeb9782bf7b47681daf177369cfde2f0a6e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arnab\.android\build-cache\3dbcc260c7fba8b95521058c35e45b48ff91a8bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Arnab\AndroidStudioProjects\TimeTracker\app\build\intermediates\pre-dexed\release\classes_e74bf035dbd05dbff62a8ce09d4fe1e5c5e0c6ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arnab\.android\build-cache\bf30a10c8e22a36280797a920dfc2afcffe1b0cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Arnab\AndroidStudioProjects\TimeTracker\app\build\intermediates\pre-dexed\release\classes_7cf1b6c02680f2f958d4fe8473e160263492def2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arnab\.android\build-cache\1c29c01041b1ddbe545eb96df1904b1b749bd132\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Arnab\AndroidStudioProjects\TimeTracker\app\build\intermediates\pre-dexed\release\classes_3fc816ad3beb68320ff74d979c2a2d02caf7e7ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arnab\.android\build-cache\87dfb58e13c72817de4fc8dd2257c77812e87bf3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Arnab\AndroidStudioProjects\TimeTracker\app\build\intermediates\pre-dexed\release\classes_0fa41f0e0d25b7a646385fe8654d0a63184b4032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arnab\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Arnab\AndroidStudioProjects\TimeTracker\app\build\intermediates\pre-dexed\release\support-annotations-25.3.1_28fc6592b741d30d46ed5f7834eb6b193d0a7e40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arnab\.android\build-cache\5922677ac3137ba3155f9ceeaab95a25d13856fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Arnab\AndroidStudioProjects\TimeTracker\app\build\intermediates\pre-dexed\release\classes_494ffd44257ee5f4985de2fe3bcaefa4821c3b9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arnab\.android\build-cache\1678f14df519f0037927b2f0d9dab4ac7c73b0c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Arnab\AndroidStudioProjects\TimeTracker\app\build\intermediates\pre-dexed\release\classes_15307aacfd4626d839e505fd223bf378e95bb288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arnab\.android\build-cache\2fe53848e41c6799955372d2a69b3e0e5b97e377\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Arnab\AndroidStudioProjects\TimeTracker\app\build\intermediates\pre-dexed\release\classes_c5895c1cf115816da478fb3fd29fcc94088d02e1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arnab\AndroidStudioProjects\TimeTracker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e86a9dcb158ece0798dd09b68fac4b1a2af5550">
+        <dex dex="C:\Users\Arnab\AndroidStudioProjects\TimeTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_287568263b696f89ef80f15698ae55402c10bc8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arnab\AndroidStudioProjects\TimeTracker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Arnab\AndroidStudioProjects\TimeTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4cc5df9c710e961080b66296077d874e4bfd77e8\classes.dex" />
+    </item>
+
+</items>
